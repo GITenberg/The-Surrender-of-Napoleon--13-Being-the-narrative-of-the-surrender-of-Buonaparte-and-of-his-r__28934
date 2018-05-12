@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '33596'
     url: http://www.gutenberg.org/2009/agents/33596
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28934#The-Surrender-of-Napoleon--13-Being-the-narrative-of-the-surrender-of-Buonaparte-and-of-his-r_
 gutenberg_bookshelf: Napoleonic(Bookshelf)
 gutenberg_issued: '2009-05-23'
 gutenberg_type: Text
